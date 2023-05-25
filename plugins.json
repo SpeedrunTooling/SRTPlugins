@@ -1,0 +1,39 @@
+ {
+ 	"PluginConfig": [
+ 		{
+ 			"platform": 1,
+ 			"internalName": "Resident Evil 4 Remake",
+ 			"pluginName": "SRTPluginProviderRE4R",
+ 			"currentVersion": "1.0.1.5",
+ 			"downloadURL": "https://github.com/SpeedrunTooling/SRTPluginProviderRE4R/releases/download/1.0.1.5/SRTPluginProviderRE4R-v1.0.1.5.zip",
+ 			"contributors": [
+ 				"TheDementedSalad",
+ 				"Squirrelies"
+ 			]
+ 		}
+ 	],
+ 	"SRTConfig": {
+ 		"platform": 2,
+ 		"internalName": "",
+ 		"pluginName": "SRTHost",
+ 		"currentVersion": "4.0.0.0",
+ 		"downloadURL": "https://github.com/SpeedRunTool/SRTHost/releases/download/3.1.0.1/SRTHost-v3.1.0.1.zip",
+ 		"contributors": [
+    "Squirrelies",
+    "SpeedRunTool Contributors"
+   ]
+ 	},
+ 	"ExtensionsConfig": [],
+ 	"InterfaceConfig": [
+   {
+ 			"platform": 2,
+ 			"internalName": "Resident Evil 4 Remake (DirectX)",
+ 			"pluginName": "SRTPluginUIRE4DirectXOverlay",
+ 			"currentVersion": "1.0.0.1",
+ 			"downloadURL": "https://github.com/SpeedrunTooling/SRTPluginUIRE4DirectXOverlay/releases/download/1.0.0.1/SRTPluginUIRE4DirectXOverlay-v1.0.0.1.zip",
+ 			"contributors": [
+ 				"VideoGameRoulette"
+ 			]
+ 		}
+ 	]
+ }
